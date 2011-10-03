@@ -1,5 +1,0 @@
-D:\programacao\csharp\pluginManager2\cbPluginManager\cbPluginManager\bin\Debug\cbPluginManager.dll
-D:\programacao\csharp\pluginManager2\cbPluginManager\cbPluginManager\bin\Debug\cbPluginManager.pdb
-D:\programacao\csharp\pluginManager2\cbPluginManager\cbPluginManager\obj\Debug\ResolveAssemblyReference.cache
-D:\programacao\csharp\pluginManager2\cbPluginManager\cbPluginManager\obj\Debug\cbPluginManager.dll
-D:\programacao\csharp\pluginManager2\cbPluginManager\cbPluginManager\obj\Debug\cbPluginManager.pdb
