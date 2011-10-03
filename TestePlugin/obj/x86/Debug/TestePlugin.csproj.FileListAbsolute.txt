@@ -1,0 +1,7 @@
+D:\programacao\csharp\pluginManager2\cbPluginManager\TestePlugin\bin\Debug\TestePlugin.exe
+D:\programacao\csharp\pluginManager2\cbPluginManager\TestePlugin\bin\Debug\TestePlugin.pdb
+D:\programacao\csharp\pluginManager2\cbPluginManager\TestePlugin\bin\Debug\cbPluginManagerSupport.dll
+D:\programacao\csharp\pluginManager2\cbPluginManager\TestePlugin\bin\Debug\cbPluginManagerSupport.pdb
+D:\programacao\csharp\pluginManager2\cbPluginManager\TestePlugin\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\programacao\csharp\pluginManager2\cbPluginManager\TestePlugin\obj\x86\Debug\TestePlugin.exe
+D:\programacao\csharp\pluginManager2\cbPluginManager\TestePlugin\obj\x86\Debug\TestePlugin.pdb
